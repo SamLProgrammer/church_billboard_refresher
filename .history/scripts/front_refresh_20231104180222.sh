@@ -1,7 +1,6 @@
 #!/bin/bash
 
 rm -rf /home/SamLProgrammer/church_billboard/frontChurch-Billboard-Front-Server
-
 TARGET_DIRECTORY="/home/SamLProgrammer/church_billboard/front"
 cd "$TARGET_DIRECTORY"
 
